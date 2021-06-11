@@ -1,0 +1,14 @@
+
+scale invariant feature transform pytorch::
+
+A Beginners Guide to Computer Vision (Part 1)-Filtering
+A Beginners Guide to Computer Vision (Part 2)- Edge Detection
+A Beginners Guide to Computer Vision (Part 3)- Harris Interest Point Detection
+A Beginners Guide to Computer Vision (Part 4)- Pyramid
+A Beginners Guide to Computer Vision (Part 5)- Scale Invariant Feature Transform (SIFT) Part 1
+
+
+person-session-count
+1. steaming videos from youtube or local machine using opencv with pytorch
+2. detect object (object is person) in video using python
+3. basically detect person and statrt session take steaming videos from youtube person videos
